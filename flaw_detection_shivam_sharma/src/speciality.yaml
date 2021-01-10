@@ -1,0 +1,16 @@
+Flaws:
+  types:
+    - BG
+    - good
+    - bad
+  params:
+    coco_weights: "models/coco_weights/mask_rcnn_coco.h5"
+    types:
+      NAME: "flaw"
+      IMAGES_PER_GPU: 1
+      NUM_CLASSES: 3
+      IMAGE_MIN_DIM: 480
+      IMAGE_MAX_DIM: 640
+      DETECTION_MIN_CONFIDENCE: 0.5
+      RPN_NMS_THRESHOLD: 0.9
+      VALIDATION_STEPS: 100

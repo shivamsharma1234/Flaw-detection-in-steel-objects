@@ -1,0 +1,19 @@
+name: crystal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - scikit-image
+  - imutils
+  - keras
+  - tensorflow-gpu=1.15
+  - tqdm
+  - pandas
+  - imgaug
+  - ipyparallel
+  - flask
+  - graphviz
+  - python-graphviz
+prefix: /home/shiva/anaconda3/envs/crystal
+
