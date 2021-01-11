@@ -10,7 +10,7 @@
 
   <figure style="text-align: center;">
     <img src="Predict_No_defect.png" alt="Snow" style="width:10%">
-    <figcaption>Figure 2. Image with No Defect</figcaption>
+    <figcaption>Figure 2. Image with missing Screw.</figcaption>
   </figure>
   
   </div>
@@ -19,7 +19,7 @@
     
   <figure style="text-align: center;">
     <img src="Predict_Defect.png" alt="Forest" style="width:10%">
-    <figcaption>Figure 2. Image with Defect in Instrument</figcaption>
+    <figcaption>Figure 2. Image with Screw therefore no defect.</figcaption>
   </figure>
   </div>
 </div> 
